@@ -1,2 +1,2 @@
 # ctfups
-ctf writeups
+ctf writeups & solutions
